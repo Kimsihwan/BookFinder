@@ -3,7 +3,7 @@
 //  BookFinder
 //
 //  Created by D7702_10 on 2018. 11. 12..
-//  Copyright © 2018년 ksh. All rights reserved.
+//  Copyright © 2018년 jik. All rights reserved.
 //  비동기 프로그램
 
 import UIKit

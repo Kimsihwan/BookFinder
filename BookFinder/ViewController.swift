@@ -3,7 +3,7 @@
 //  BookFinder
 //
 //  Created by test on 2018. 11. 12..
-//  Copyright © 2018년 ksh. All rights reserved.
+//  Copyright © 2018년 jik. All rights reserved.
 //
 
 import UIKit
